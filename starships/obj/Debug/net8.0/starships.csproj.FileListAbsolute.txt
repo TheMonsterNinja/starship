@@ -1,0 +1,14 @@
+C:\Users\Mateusz\Desktop\Projekty C#\starships\starships\bin\Debug\net8.0\starships.exe
+C:\Users\Mateusz\Desktop\Projekty C#\starships\starships\bin\Debug\net8.0\starships.deps.json
+C:\Users\Mateusz\Desktop\Projekty C#\starships\starships\bin\Debug\net8.0\starships.runtimeconfig.json
+C:\Users\Mateusz\Desktop\Projekty C#\starships\starships\bin\Debug\net8.0\starships.dll
+C:\Users\Mateusz\Desktop\Projekty C#\starships\starships\bin\Debug\net8.0\starships.pdb
+C:\Users\Mateusz\Desktop\Projekty C#\starships\starships\obj\Debug\net8.0\starships.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz\Desktop\Projekty C#\starships\starships\obj\Debug\net8.0\starships.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Desktop\Projekty C#\starships\starships\obj\Debug\net8.0\starships.AssemblyInfo.cs
+C:\Users\Mateusz\Desktop\Projekty C#\starships\starships\obj\Debug\net8.0\starships.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\Projekty C#\starships\starships\obj\Debug\net8.0\starships.dll
+C:\Users\Mateusz\Desktop\Projekty C#\starships\starships\obj\Debug\net8.0\refint\starships.dll
+C:\Users\Mateusz\Desktop\Projekty C#\starships\starships\obj\Debug\net8.0\starships.pdb
+C:\Users\Mateusz\Desktop\Projekty C#\starships\starships\obj\Debug\net8.0\starships.genruntimeconfig.cache
+C:\Users\Mateusz\Desktop\Projekty C#\starships\starships\obj\Debug\net8.0\ref\starships.dll
